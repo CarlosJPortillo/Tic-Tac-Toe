@@ -1,0 +1,75 @@
+DESK CHECK
+
+CASE 1:
+          Line 68|| Line 68(after input//4)|| Line 78
+rows        3           4                      4
+cols        3           3                      4
+
+CASE 2:
+         LINE 82||  Line84(after input//5000)||
+Timelimit 3000            5000
+
+CASE 3:
+         LINE 94||  LINE 113     ||  LINE1 18    ||  LINE 126
+Playagain   y           y              y                y
+board   string[4,4]  string[4,4]     string[4,4]      string[4,4] 
+cols        4            4             4                4
+position int[4,4]    int[4,4]          4                4
+rows         4            4            4                4         
+turn       "player1    "player2"       "player2"        player1
+xposition    0             1           1                2     
+ypostion     0             0           0                1
+win         false         false        false            false
+tie         false         false        flase            false
+
+CASE5:   LINE349||    LINE386   ||    LINE463
+Playagain   y            Y               n
+board   string[4,4]   string[4,4]      board[4,4]
+cols        4            4               4
+position int[4,4]      int[4,4]         int[4,4]
+rows        4            4               4
+turn       "player1"  "player2"         XXXX
+xposition   0            2                3
+yposition   0            2                3 
+win         false      false            true
+tie         false      false            false
+sw.elapsed  1511         0                0
+milliseconds            
+timelimit   5000        5000            5000
+loopend      ""         "111"           "222"
+
+---new game previous inputs for rows don't apply-
+POSSIBLEBLOCK:   LINE 986||  LINE 997   || LINE 1005
+COLS                 3         3              3
+ROWS                 3
+board          string[3,3]
+i                    0         i
+turn             "player2"
+opposingcharacter   "x"
+wincounter                                    1
+    
+--assuming a actual win is found        
+CHECKWIN:         LINE 715   ||    LINE 726(3)   ||LINE 729
+COLS                   3               3             3
+ROWS                   3               3             3
+board             string[3,3]       string[3,3]    string[3,3]
+i                                     2             2
+turn               "player1"        "player2"      player  
+playercharacter       "x"              "x"          "x"
+win counter                            3             3
+j                                      2             2
+board[i,j]                            "x"           "x"
+win                   false           false         true  
+
+--assuming computerplayer can make a win in Less easy or hard mode
+POSSIBLE WIN      LINE 859   ||    LINE869(3)   ||    LINE 877
+COLS                  3              3                   3
+ROWS                  3              3                   3
+Board             string[3,3]    string[3,3]          string[3,3]
+i                                    0                   0    
+turn               "player2"      "player2"         "Move_has_ended"
+playercharacter                     "o"                  "o"    
+win counter                          2                    2
+j                                    2                    2
+board[i, j]                         "o"                  "o"
+                   

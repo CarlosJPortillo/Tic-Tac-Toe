@@ -1,0 +1,53 @@
+Test Plan 
+
+1. Test to see if menu gets displayed and works efficiently with input
+**expected results** menu shows on console screen and jumps into each 
+switch statement when valid input is read in
+
+2.Test selection case 1 
+**expected result** menu clears and text displays text asking for user to
+change the default number of rows and columns, and if input received is
+invalid displays test reprompting the user until valid input is given
+
+3.Test selection case 2
+**expected result** text displayed at bottom of menu asking the user for input
+and if bad input is received, it reprompts the user input until valid integer
+is given
+
+4.Test selection case 3
+**expected result** Board is displayed on screen by default to 3x3 or whatever
+the user chose to input in selection case 1. Arrow Keys are pressed and the 
+cursor is moved accordingly in relation to the keys. The board wraps around,
+so no crash is given if user decides to press a key in a direction percieved
+to be outside console bounds. After spacebar is pressed, a character of x or
+o depending on human player's turn, is placed on a spot on board, assuming 
+that space is not already taken. After such, the computer player makes a move
+where it places a random character on the board. Players keep exchanging turns
+until a win condition is met with a horizontal, diagonol, or vertical line
+of same characters is shown on screen. Text is displayed on bottom screen 
+declaring a winner of either player 1 or player 2, unless a tie condition is 
+met, in which all the board is filled with player characters and no win 
+condition was met, and the console displays text declaring game ends in a 
+draw. The program prompts the user in whether to continue by entering a y, 
+if so, the whole case simulation starts over, except the human player
+will now go second instead of first, if she or him went first the previous game
+and vice versa. Also if at anytime during the case 3 scope, if the human user
+presses the key esc., the game is immediately done, and the menu is reprinted
+to console.
+
+5.Test selection case4
+**expected result** Same basic expected result blueprint as selction case 3, with
+one expcetion. The computer instead of only making percieved random movements
+during its turns, will run through a different AI algorithm. It still makes 
+percived random movements, however it will move to a position on the board if
+detects its about to win next turn. It also checks to see to see if opposing 
+player is about to win, in which case it will move to the spot where one character
+remains for human player to win.
+
+6.Test selection case5
+**expected result** The same as selection case 4, except this time it runs with a 
+timer counting down right below board. If the timer reaches zero, the human player's 
+turn is done, and it switched over to computer player.
+
+7.Test selection case6
+*expected result** Console Screen closes

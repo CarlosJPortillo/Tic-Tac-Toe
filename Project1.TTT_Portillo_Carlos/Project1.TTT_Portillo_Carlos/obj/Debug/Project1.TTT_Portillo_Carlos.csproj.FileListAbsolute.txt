@@ -1,0 +1,18 @@
+c:\users\alternative17\documents\visual studio 2012\Projects\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.exe.config
+c:\users\alternative17\documents\visual studio 2012\Projects\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.exe
+c:\users\alternative17\documents\visual studio 2012\Projects\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.pdb
+c:\users\alternative17\documents\visual studio 2012\Projects\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.csprojResolveAssemblyReference.cache
+c:\users\alternative17\documents\visual studio 2012\Projects\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.exe
+c:\users\alternative17\documents\visual studio 2012\Projects\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.pdb
+C:\Users\Alternative17\Documents\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.exe.config
+C:\Users\Alternative17\Documents\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.exe
+C:\Users\Alternative17\Documents\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.pdb
+C:\Users\Alternative17\Documents\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.exe
+C:\Users\Alternative17\Documents\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.pdb
+C:\Users\Alternative17\Documents\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\C#\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.exe.config
+C:\Users\Carlos\Documents\C#\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.exe
+C:\Users\Carlos\Documents\C#\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.pdb
+C:\Users\Carlos\Documents\C#\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.exe
+C:\Users\Carlos\Documents\C#\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\bin\Debug\Project1.TTT_Portillo_Carlos.pdb
+C:\Users\Carlos\Documents\C#\Portillo_Carlos_CIS131_Project1\Project1.TTT_Portillo_Carlos\Project1.TTT_Portillo_Carlos\obj\Debug\Project1.TTT_Portillo_Carlos.csprojResolveAssemblyReference.cache
